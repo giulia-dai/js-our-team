@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 900px;
+    margin: 20px auto;
+}
+
+#card{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid;
+}
+
+.member-card{
+    padding: 10px;
+    margin: 10px;
+    background-color: pink;
+}
