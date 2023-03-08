@@ -38,6 +38,8 @@ const team = [
 console.log(team);
 
 
+//MILESTONE 2
+//Rendere l'array visibile nella pagina
 const cardDom = document.getElementById('card');
 for (let i = 0; i < team.length; i++) {
     let member = team[i];
